@@ -14,9 +14,9 @@ With every project we take on, we turn bold ideas into unforgettable experiences
 
 ---
 
-## Our Work
+<!-- ## Our Work
 
-We specialize in a variety of mediums, bringing diverse concepts to life through innovative design and thoughtful execution. Below are some of the projects that reflect our passion and dedication:
+We specialize in a variety of mediums, bringing diverse concepts to life through innovative design and thoughtful execution. Below are some of the projects that reflect our passion and dedication: -->
 
 <!-- ### 1. **Project Name 1**
 
