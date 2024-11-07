@@ -14,9 +14,9 @@ With every project we take on, we turn bold ideas into unforgettable experiences
 
 ---
 
-<!-- ## Our Work
+## Our Work
 
-We specialize in a variety of mediums, bringing diverse concepts to life through innovative design and thoughtful execution. Below are some of the projects that reflect our passion and dedication: -->
+We specialize in a variety of mediums, bringing diverse concepts to life through innovative design and thoughtful execution. Below are some of the projects that reflect our passion and dedication:
 
 <!-- ### 1. **Project Name 1**
 
@@ -75,9 +75,9 @@ At Lined-Up Studios, we believe in a thoughtful, iterative approach that combine
 
 ---
 
-## Join the Team
+<!-- ## Join the Team
 
-Are you passionate about creativity and innovation? We're always looking for talented individuals to join our growing team. Check out our current job openings and become part of something extraordinary.
+Are you passionate about creativity and innovation? We're always looking for talented individuals to join our growing team. Check out our current job openings and become part of something extraordinary. -->
 
 <!--
 - [View Careers](#) -->
